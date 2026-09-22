@@ -7,6 +7,7 @@
 [![Issues](https://img.shields.io/github/issues/MayurJivani/Mysic?style=flat-square)](https://github.com/MayurJivani/Mysic/issues)
 ![Code size](https://img.shields.io/github/languages/code-size/MayurJivani/Mysic?style=flat-square)
 [![Last commit](https://img.shields.io/github/last-commit/MayurJivani/Mysic?style=flat-square)](https://github.com/MayurJivani/Mysic/commits/main)
+![halves](https://img.shields.io/badge/halves-two-e84393?style=flat-square)
 
 A music app in two halves.
 
